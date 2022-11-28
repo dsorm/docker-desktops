@@ -65,7 +65,6 @@ RUN apt install -y apt-transport-https \
                    fuse \
                    gettext \
                    git \
-                   gvfs-bin \
                    less \
                    libfuse-dev \
                    libglu1-mesa \
@@ -82,7 +81,6 @@ RUN apt install -y apt-transport-https \
                    openssh-server \
                    openvpn \
                    pkg-config \
-                   python-libxml2 \
                    telnet \
                    unzip \
                    vim \

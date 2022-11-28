@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:22.04
 MAINTAINER Karl Stenerud <kstenerud@gmail.com>
 
 # Lubuntu desktop in a Docker image, with RDP and X2go remote desktop access.
